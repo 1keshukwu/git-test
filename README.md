@@ -1,2 +1,3 @@
 # git-test 
-jhkvlbvckgitS
+jhkvlbvckgitS 
+all things being equal
